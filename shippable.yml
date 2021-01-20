@@ -9,3 +9,8 @@ node_js:
 branches:
   only:
     - master
+
+build:
+  ci:
+    - npm install
+    - npm tun test
