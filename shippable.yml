@@ -12,5 +12,4 @@ branches:
 
 build:
   ci:
-    - npm install
     - npm run test
