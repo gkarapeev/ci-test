@@ -13,4 +13,4 @@ branches:
 build:
   ci:
     - npm install
-    - npm tun test
+    - npm run test
